@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{F888E2F3-991A-4E18-9309-E98F4ED53FE1}" SchemaVersion="72">
+	<AudioObjects>
+		<WorkUnit Name="Weapon" ID="{F888E2F3-991A-4E18-9309-E98F4ED53FE1}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="Shotgun_Fire_01" ID="{9E1669EE-BA18-4D2C-B867-EBE56662DBF7}" ShortID="88253850" Type="SoundFX">
+					<PropertyList>
+						<Property Name="HdrEnvelopeSensitivity" Type="Real64" Value="20"/>
+						<Property Name="UseGameAuxSends" Type="bool" Value="True"/>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5F6E5531-2B92-41CC-924F-077AFCFD1453}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{68F9BA48-B3E0-474F-8C7B-FE41FFC0978B}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Shotgun_Fire_01" ID="{CD5B80FC-775B-4AED-93C3-D9DEAD7201BC}" ShortID="903830747">
+							<Language>SFX</Language>
+							<AudioFile>Shotgun_Fire_01.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="Shotgun_Fire_01" ID="{CD5B80FC-775B-4AED-93C3-D9DEAD7201BC}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

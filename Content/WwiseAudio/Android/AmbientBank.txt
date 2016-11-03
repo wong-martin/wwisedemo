@@ -1,0 +1,8 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2598391116	AmbientNoise_Spatialized			\Default Work Unit\AmbientNoise_Spatialized	
+	3879965597	AmbientNoise_NotSpatialized			\Default Work Unit\AmbientNoise_NotSpatialized	
+
+Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
+	526524345	Wwise Tone Generator	Wwise Tone Generator		\Actor-Mixer Hierarchy\AmbientDemo\AmbientNoise_Spatialized\Wwise Tone Generator	
+	827210684	Wwise Tone Generator	Wwise Tone Generator		\Actor-Mixer Hierarchy\AmbientDemo\AmbientNoise_NotSpatialized\Wwise Tone Generator	
+

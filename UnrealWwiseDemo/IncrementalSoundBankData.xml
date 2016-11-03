@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<IncrementalBankBuild Version="6" Flags="3319646242">
+	<Platform GUID="{7CC0D198-A107-4127-806F-AB305E44D9BA}">
+		<Banks>
+			<Language ID="0">
+				<File Name="AmbientBank" Hash="3652416705" Timestamp="131226589518961968"/>
+				<File Name="Init" Hash="1523278028" Timestamp="131226589519221445"/>
+				<File Name="MatineeBank" Hash="2415332475" Timestamp="131226589519026715"/>
+				<File Name="ReverbBank" Hash="1877701836" Timestamp="131226589519126539"/>
+				<File Name="SwitchBank" Hash="389294369" Timestamp="131226589519066407"/>
+				<File Name="VelocityBank" Hash="4039574748" Timestamp="131226589519177415"/>
+			</Language>
+		</Banks>
+		<XMLInfo>
+			<Language ID="0">
+				<File Name="AmbientBank" Hash="925218058" Timestamp="131226589520858982"/>
+				<File Name="Init" Hash="1382384685" Timestamp="131226589520964507"/>
+				<File Name="MatineeBank" Hash="458290507" Timestamp="131226589520874346"/>
+				<File Name="ReverbBank" Hash="2463999880" Timestamp="131226589520904106"/>
+				<File Name="SwitchBank" Hash="754241475" Timestamp="131226589520889058"/>
+				<File Name="VelocityBank" Hash="1618338980" Timestamp="131226589520954152"/>
+			</Language>
+			<Language ID="-1">
+				<File Name="" Hash="1556807183" Timestamp="131226589520843934"/>
+			</Language>
+		</XMLInfo>
+		<JSONInfo>
+			<Language ID="0">
+				<File Name="AmbientBank" Hash="312977326" Timestamp="131226589521004286"/>
+				<File Name="Init" Hash="187859617" Timestamp="131226589521124610"/>
+				<File Name="MatineeBank" Hash="3099223356" Timestamp="131226589521029336"/>
+				<File Name="ReverbBank" Hash="4184190848" Timestamp="131226589521069439"/>
+				<File Name="SwitchBank" Hash="1812213301" Timestamp="131226589521049587"/>
+				<File Name="VelocityBank" Hash="2259466838" Timestamp="131226589521099606"/>
+			</Language>
+			<Language ID="-1">
+				<File Name="" Hash="1486183559" Timestamp="131226589520989226"/>
+			</Language>
+		</JSONInfo>
+	</Platform>
+	<Platform GUID="{BD0BDF13-3125-454F-8BFD-319537169F82}">
+		<Banks>
+			<Language ID="0">
+				<File Name="AmbientBank" Hash="3652416705" Timestamp="131226589521470850"/>
+				<File Name="Init" Hash="1401444911" Timestamp="131226589521826473"/>
+				<File Name="MatineeBank" Hash="2415332475" Timestamp="131226589521530678"/>
+				<File Name="ReverbBank" Hash="1877701836" Timestamp="131226589521716188"/>
+				<File Name="SwitchBank" Hash="389294369" Timestamp="131226589521585821"/>
+				<File Name="VelocityBank" Hash="4039574748" Timestamp="131226589521771326"/>
+			</Language>
+		</Banks>
+		<XMLInfo>
+			<Language ID="0">
+				<File Name="AmbientBank" Hash="2112578563" Timestamp="131226589521871577"/>
+				<File Name="Init" Hash="4117223766" Timestamp="131226589521941780"/>
+				<File Name="MatineeBank" Hash="4146951062" Timestamp="131226589521881604"/>
+				<File Name="ReverbBank" Hash="4082980181" Timestamp="131226589521906687"/>
+				<File Name="SwitchBank" Hash="2142139980" Timestamp="131226589521896664"/>
+				<File Name="VelocityBank" Hash="3642638647" Timestamp="131226589521926744"/>
+			</Language>
+			<Language ID="-1">
+				<File Name="" Hash="2400273704" Timestamp="131226589521856549"/>
+			</Language>
+		</XMLInfo>
+		<JSONInfo>
+			<Language ID="0">
+				<File Name="AmbientBank" Hash="3876379311" Timestamp="131226589521982203"/>
+				<File Name="Init" Hash="1076828430" Timestamp="131226589522077144"/>
+				<File Name="MatineeBank" Hash="2327392341" Timestamp="131226589522001924"/>
+				<File Name="ReverbBank" Hash="922912583" Timestamp="131226589522042047"/>
+				<File Name="SwitchBank" Hash="3006654674" Timestamp="131226589522022317"/>
+				<File Name="VelocityBank" Hash="2502616037" Timestamp="131226589522062084"/>
+			</Language>
+			<Language ID="-1">
+				<File Name="" Hash="579022022" Timestamp="131226589521962177"/>
+			</Language>
+		</JSONInfo>
+	</Platform>
+	<Platform GUID="{3AF9B9B6-6EF1-47E9-B5FE-E30C9E602C78}">
+		<Banks>
+			<Language ID="0">
+				<File Name="AmbientBank" Hash="3652416705" Timestamp="131226589523377306"/>
+				<File Name="Init" Hash="3293800406" Timestamp="131226589523803439"/>
+				<File Name="MatineeBank" Hash="2415332475" Timestamp="131226589523442479"/>
+				<File Name="ReverbBank" Hash="1877701836" Timestamp="131226589523617946"/>
+				<File Name="SwitchBank" Hash="389294369" Timestamp="131226589523497626"/>
+				<File Name="VelocityBank" Hash="4039574748" Timestamp="131226589523723238"/>
+			</Language>
+		</Banks>
+		<XMLInfo>
+			<Language ID="0">
+				<File Name="AmbientBank" Hash="1181765616" Timestamp="131226589523853589"/>
+				<File Name="Init" Hash="2732835223" Timestamp="131226589523933798"/>
+				<File Name="MatineeBank" Hash="345012453" Timestamp="131226589523868613"/>
+				<File Name="ReverbBank" Hash="452038006" Timestamp="131226589523903773"/>
+				<File Name="SwitchBank" Hash="421253977" Timestamp="131226589523883669"/>
+				<File Name="VelocityBank" Hash="1169531906" Timestamp="131226589523918746"/>
+			</Language>
+			<Language ID="-1">
+				<File Name="" Hash="3986782361" Timestamp="131226589523838564"/>
+			</Language>
+		</XMLInfo>
+		<JSONInfo>
+			<Language ID="0">
+				<File Name="AmbientBank" Hash="3897424424" Timestamp="131226589523983920"/>
+				<File Name="Init" Hash="303988879" Timestamp="131226589524114278"/>
+				<File Name="MatineeBank" Hash="1460226594" Timestamp="131226589524003985"/>
+				<File Name="ReverbBank" Hash="779628546" Timestamp="131226589524049113"/>
+				<File Name="SwitchBank" Hash="141915687" Timestamp="131226589524019033"/>
+				<File Name="VelocityBank" Hash="368126432" Timestamp="131226589524069577"/>
+			</Language>
+			<Language ID="-1">
+				<File Name="" Hash="1092994349" Timestamp="131226589523963866"/>
+			</Language>
+		</JSONInfo>
+	</Platform>
+	<Platform GUID="{02DC7702-6E7B-4AE4-BAE4-64D2B1057150}">
+		<Banks>
+			<Language ID="0">
+				<File Name="AmbientBank" Hash="3652416705" Timestamp="131226589522463167"/>
+				<File Name="Init" Hash="977350976" Timestamp="131226589522735954"/>
+				<File Name="MatineeBank" Hash="2415332475" Timestamp="131226589522523312"/>
+				<File Name="ReverbBank" Hash="1877701836" Timestamp="131226589522638622"/>
+				<File Name="SwitchBank" Hash="389294369" Timestamp="131226589522568439"/>
+				<File Name="VelocityBank" Hash="4039574748" Timestamp="131226589522685465"/>
+			</Language>
+		</Banks>
+		<XMLInfo>
+			<Language ID="0">
+				<File Name="AmbientBank" Hash="722221860" Timestamp="131226589522785740"/>
+				<File Name="Init" Hash="867785051" Timestamp="131226589522855930"/>
+				<File Name="MatineeBank" Hash="479672297" Timestamp="131226589522800772"/>
+				<File Name="ReverbBank" Hash="945237018" Timestamp="131226589522825842"/>
+				<File Name="SwitchBank" Hash="3972964605" Timestamp="131226589522810798"/>
+				<File Name="VelocityBank" Hash="2117902974" Timestamp="131226589522841246"/>
+			</Language>
+			<Language ID="-1">
+				<File Name="" Hash="346417493" Timestamp="131226589522765702"/>
+			</Language>
+		</XMLInfo>
+		<JSONInfo>
+			<Language ID="0">
+				<File Name="AmbientBank" Hash="1552580476" Timestamp="131226589522896025"/>
+				<File Name="Init" Hash="2406774835" Timestamp="131226589523001598"/>
+				<File Name="MatineeBank" Hash="356163606" Timestamp="131226589522916078"/>
+				<File Name="ReverbBank" Hash="4097384590" Timestamp="131226589522961198"/>
+				<File Name="SwitchBank" Hash="4122956619" Timestamp="131226589522941189"/>
+				<File Name="VelocityBank" Hash="1340091852" Timestamp="131226589522981248"/>
+			</Language>
+			<Language ID="-1">
+				<File Name="" Hash="570844937" Timestamp="131226589522875984"/>
+			</Language>
+		</JSONInfo>
+	</Platform>
+	<Platform GUID="{B131584B-9961-4BB5-9C58-A3E9ABFFBBF7}">
+		<Banks>
+			<Language ID="0">
+				<File Name="AmbientBank" Hash="3652416705" Timestamp="131226589525471752"/>
+				<File Name="Init" Hash="2024175309" Timestamp="131226589525759341"/>
+				<File Name="MatineeBank" Hash="2415332475" Timestamp="131226589525533733"/>
+				<File Name="ReverbBank" Hash="1877701836" Timestamp="131226589525654045"/>
+				<File Name="SwitchBank" Hash="389294369" Timestamp="131226589525578853"/>
+				<File Name="VelocityBank" Hash="4039574748" Timestamp="131226589525704372"/>
+			</Language>
+		</Banks>
+		<XMLInfo>
+			<Language ID="0">
+				<File Name="AmbientBank" Hash="1681537636" Timestamp="131226589525809470"/>
+				<File Name="Init" Hash="4188605851" Timestamp="131226589525870859"/>
+				<File Name="MatineeBank" Hash="1596805033" Timestamp="131226589525819497"/>
+				<File Name="ReverbBank" Hash="1122983514" Timestamp="131226589525844552"/>
+				<File Name="SwitchBank" Hash="256261309" Timestamp="131226589525834537"/>
+				<File Name="VelocityBank" Hash="4193043774" Timestamp="131226589525860821"/>
+			</Language>
+			<Language ID="-1">
+				<File Name="" Hash="2688787477" Timestamp="131226589525794427"/>
+			</Language>
+		</XMLInfo>
+		<JSONInfo>
+			<Language ID="0">
+				<File Name="AmbientBank" Hash="1483283508" Timestamp="131226589525911349"/>
+				<File Name="Init" Hash="3131989755" Timestamp="131226589526006184"/>
+				<File Name="MatineeBank" Hash="2332577854" Timestamp="131226589525930976"/>
+				<File Name="ReverbBank" Hash="850150646" Timestamp="131226589525971079"/>
+				<File Name="SwitchBank" Hash="2933919747" Timestamp="131226589525951393"/>
+				<File Name="VelocityBank" Hash="1898020852" Timestamp="131226589525986119"/>
+			</Language>
+			<Language ID="-1">
+				<File Name="" Hash="2082315601" Timestamp="131226589525891035"/>
+			</Language>
+		</JSONInfo>
+	</Platform>
+	<Platform GUID="{6E0CB257-C6C8-4C5C-8366-2740DFC441EC}">
+		<Banks>
+			<Language ID="0">
+				<File Name="AmbientBank" Hash="3652416705" Timestamp="131226589524495280"/>
+				<File Name="Init" Hash="688550638" Timestamp="131226589524821345"/>
+				<File Name="MatineeBank" Hash="2415332475" Timestamp="131226589524565475"/>
+				<File Name="ReverbBank" Hash="1877701836" Timestamp="131226589524695814"/>
+				<File Name="SwitchBank" Hash="389294369" Timestamp="131226589524625623"/>
+				<File Name="VelocityBank" Hash="4039574748" Timestamp="131226589524756112"/>
+			</Language>
+		</Banks>
+		<XMLInfo>
+			<Language ID="0">
+				<File Name="AmbientBank" Hash="3109864386" Timestamp="131226589524861254"/>
+				<File Name="Init" Hash="2728713957" Timestamp="131226589524936826"/>
+				<File Name="MatineeBank" Hash="1301005779" Timestamp="131226589524876713"/>
+				<File Name="ReverbBank" Hash="1798329248" Timestamp="131226589524901369"/>
+				<File Name="SwitchBank" Hash="2847755355" Timestamp="131226589524886333"/>
+				<File Name="VelocityBank" Hash="2559260876" Timestamp="131226589524916425"/>
+			</Language>
+			<Language ID="-1">
+				<File Name="" Hash="2025725783" Timestamp="131226589524846214"/>
+			</Language>
+		</XMLInfo>
+		<JSONInfo>
+			<Language ID="0">
+				<File Name="AmbientBank" Hash="2390448654" Timestamp="131226589524990313"/>
+				<File Name="Init" Hash="3322208001" Timestamp="131226589525080565"/>
+				<File Name="MatineeBank" Hash="1851701276" Timestamp="131226589525010374"/>
+				<File Name="ReverbBank" Hash="3117373408" Timestamp="131226589525045827"/>
+				<File Name="SwitchBank" Hash="1185731541" Timestamp="131226589525025406"/>
+				<File Name="VelocityBank" Hash="3166337270" Timestamp="131226589525065908"/>
+			</Language>
+			<Language ID="-1">
+				<File Name="" Hash="3342619943" Timestamp="131226589524962967"/>
+			</Language>
+		</JSONInfo>
+	</Platform>
+	<Platform GUID="{A2D401DE-B8B6-4FEB-8142-137C34D507CB}">
+		<Banks>
+			<Language ID="0">
+				<File Name="AmbientBank" Hash="3652416705" Timestamp="131226589517663817"/>
+				<File Name="Init" Hash="2248003086" Timestamp="131226589518075622"/>
+				<File Name="MatineeBank" Hash="2415332475" Timestamp="131226589517764618"/>
+				<File Name="ReverbBank" Hash="1877701836" Timestamp="131226589517950348"/>
+				<File Name="SwitchBank" Hash="389294369" Timestamp="131226589517839829"/>
+				<File Name="VelocityBank" Hash="4039574748" Timestamp="131226589518010816"/>
+			</Language>
+		</Banks>
+		<XMLInfo>
+			<Language ID="0">
+				<File Name="AmbientBank" Hash="2338725072" Timestamp="131226589518135715"/>
+				<File Name="Init" Hash="2368072247" Timestamp="131226589518215644"/>
+				<File Name="MatineeBank" Hash="789049349" Timestamp="131226589518150487"/>
+				<File Name="ReverbBank" Hash="332952726" Timestamp="131226589518180551"/>
+				<File Name="SwitchBank" Hash="1914846201" Timestamp="131226589518170540"/>
+				<File Name="VelocityBank" Hash="2898908834" Timestamp="131226589518200829"/>
+			</Language>
+			<Language ID="-1">
+				<File Name="" Hash="2270427001" Timestamp="131226589518125412"/>
+			</Language>
+		</XMLInfo>
+		<JSONInfo>
+			<Language ID="0">
+				<File Name="AmbientBank" Hash="3558615584" Timestamp="131226589518320928"/>
+				<File Name="Init" Hash="2229657783" Timestamp="131226589518421211"/>
+				<File Name="MatineeBank" Hash="4149151306" Timestamp="131226589518341124"/>
+				<File Name="ReverbBank" Hash="1859059754" Timestamp="131226589518381424"/>
+				<File Name="SwitchBank" Hash="2737723551" Timestamp="131226589518361051"/>
+				<File Name="VelocityBank" Hash="933403016" Timestamp="131226589518401150"/>
+			</Language>
+			<Language ID="-1">
+				<File Name="" Hash="104568149" Timestamp="131226589518240707"/>
+			</Language>
+		</JSONInfo>
+	</Platform>
+</IncrementalBankBuild>

@@ -1,0 +1,44 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "iOS",
+  "BasePlatform": "iOS",
+  "SchemaVersion": "11",
+  "SoundbankVersion": "118",
+  "RootPaths": {
+   "ProjectRoot": "C:\\Users\\Marty\\Downloads\\UE4.13_Integration_Wwise_v2016.1.3_5878\\WwiseDemoGame\\UnrealWwiseDemo\\",
+   "SourceFilesRoot": "C:\\Users\\Marty\\Downloads\\UE4.13_Integration_Wwise_v2016.1.3_5878\\WwiseDemoGame\\UnrealWwiseDemo\\.cache\\iOS\\",
+   "SoundBanksRoot": "C:\\Users\\Marty\\Downloads\\UE4.13_Integration_Wwise_v2016.1.3_5878\\WwiseDemoGame\\Content\\WwiseAudio\\IOS\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "C:\\Users\\Marty\\Downloads\\UE4.13_Integration_Wwise_v2016.1.3_5878\\WwiseDemoGame\\UnrealWwiseDemo\\GeneratedSoundBanks\\iOS"
+  },
+  "SoundBanks": [
+   {
+    "Id": "1410510952",
+    "Language": "SFX",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\MatineeBank",
+    "ShortName": "MatineeBank",
+    "Path": "MatineeBank.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "995648151",
+      "Name": "Closed_Hi_Hat",
+      "ObjectPath": "\\Events\\Default Work Unit\\Closed_Hi_Hat",
+      "MaxAttenuation": "1500.000000"
+     },
+     {
+      "Id": "2181839183",
+      "Name": "Kick",
+      "ObjectPath": "\\Events\\Default Work Unit\\Kick",
+      "MaxAttenuation": "1500.000000"
+     },
+     {
+      "Id": "3607016552",
+      "Name": "Snare",
+      "ObjectPath": "\\Events\\Default Work Unit\\Snare",
+      "MaxAttenuation": "1500.000000"
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Linux" BasePlatform="Linux" SchemaVersion="11" SoundbankVersion="118">
+	<RootPaths>
+		<ProjectRoot>C:\Users\Marty\Downloads\UE4.13_Integration_Wwise_v2016.1.3_5878\WwiseDemoGame\UnrealWwiseDemo\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\Marty\Downloads\UE4.13_Integration_Wwise_v2016.1.3_5878\WwiseDemoGame\UnrealWwiseDemo\.cache\Linux\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\Marty\Downloads\UE4.13_Integration_Wwise_v2016.1.3_5878\WwiseDemoGame\Content\WwiseAudio\Linux\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\Marty\Downloads\UE4.13_Integration_Wwise_v2016.1.3_5878\WwiseDemoGame\UnrealWwiseDemo\GeneratedSoundBanks\Linux</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="4208475951" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\ReverbBank</ObjectPath>
+			<ShortName>ReverbBank</ShortName>
+			<Path>ReverbBank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1730369216" Name="Fire_Weapon" ObjectPath="\Events\Default Work Unit\Fire_Weapon"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="903830747" Language="SFX">
+					<ShortName>Shotgun_Fire_01.wav</ShortName>
+					<Path>SFX\Shotgun_Fire_01_9E69E797.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

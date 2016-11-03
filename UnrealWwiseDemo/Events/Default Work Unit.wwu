@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{6885DF83-4B3B-4019-9FD8-837DA79E8A45}" SchemaVersion="72">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{6885DF83-4B3B-4019-9FD8-837DA79E8A45}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="AmbientNoise_NotSpatialized" ID="{3CA6EA29-AC5B-4EF2-8DE6-052929641398}">
+					<ChildrenList>
+						<Action Name="Play" ID="{093B4923-103B-4653-A4F9-7DB8606D7140}" ShortID="430751698" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{A96F09F1-B3F7-4879-91AF-BDDF664B640B}" Global="false">
+									<ObjectRef Name="AmbientNoise_NotSpatialized" ID="{F785ACD7-8EE2-405D-9C45-3E6C946DC01C}" WorkUnitID="{245A59A9-1BF3-427B-9CC0-555CA91CBFBC}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="AmbientNoise_Spatialized" ID="{8F020310-C571-4652-98B8-E51136BF4C90}">
+					<ChildrenList>
+						<Action Name="Play" ID="{2D7CB87E-C447-400F-A03C-9DA78A9837F9}" ShortID="892038935" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{EA9AB059-CDE0-43D0-81E8-36DDEB45340F}" Global="false">
+									<ObjectRef Name="AmbientNoise_Spatialized" ID="{6E1FF0AE-84E9-426A-A92E-0649046E0A9F}" WorkUnitID="{245A59A9-1BF3-427B-9CC0-555CA91CBFBC}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="VelocityLoop" ID="{3ADB6863-845F-4593-BD67-3C2B5156EA78}">
+					<ChildrenList>
+						<Action Name="Play" ID="{1569F9D9-2C52-4F6F-A629-CA8CDD402414}" ShortID="738326644" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{B315F9CD-DBE6-4B59-A9B1-E152C53B713B}" Global="false">
+									<ObjectRef Name="VelocityLoop" ID="{BF5ECCF0-916E-40CB-9143-B666D7D2E651}" WorkUnitID="{E8AFD3BE-0FE9-4AD6-ADC4-06A642EDB8A0}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Snare" ID="{5324F682-D3DD-4796-BFEC-AC748FD1E843}">
+					<ChildrenList>
+						<Action Name="Play" ID="{A92EE7C9-656F-496A-9AE0-E6D50EDA430A}" ShortID="19472673" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{470A1943-F5C2-4912-96C1-F314E9CE6141}" Global="false">
+									<ObjectRef Name="Snare" ID="{D1487400-9EF8-4C3A-8EB8-9C49A3322F08}" WorkUnitID="{9A2621FC-EED0-4E10-97FE-28167BCEA042}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Closed_Hi_Hat" ID="{B850BFF9-263E-4426-9E53-0365DC5C977E}">
+					<ChildrenList>
+						<Action Name="Play" ID="{9AB0D098-F51D-46B8-B96E-DE6FFD1D7D30}" ShortID="1005496352" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{9D807564-EF4B-474D-A892-09757A5FA9E9}" Global="false">
+									<ObjectRef Name="Closed Hi-Hat" ID="{62FA4E4F-9B1B-4282-9C56-155872312AA4}" WorkUnitID="{9A2621FC-EED0-4E10-97FE-28167BCEA042}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Kick" ID="{CC60D155-BAB8-4286-86A0-6A7D685E6775}">
+					<ChildrenList>
+						<Action Name="Play" ID="{60021D8B-D2A5-40AF-BE00-6CE66AE28DB4}" ShortID="849933739" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{AAA58FE9-3AEC-4746-8D7E-4DA3C3BD4318}" Global="false">
+									<ObjectRef Name="Kick" ID="{63ED6480-BB3A-4CD1-835D-E500106767EF}" WorkUnitID="{9A2621FC-EED0-4E10-97FE-28167BCEA042}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Tone" ID="{79872E0F-9FC5-4CF3-BD60-9F7CF2B96495}">
+					<ChildrenList>
+						<Action Name="Play" ID="{A419BF31-78CD-450D-8101-22DE30E4AE73}" ShortID="750111439" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{2E91633B-E77A-4317-97DC-6DA2774E549B}" Global="false">
+									<ObjectRef Name="Tones" ID="{882E579A-BBF6-4A33-865B-7591F095FB06}" WorkUnitID="{8A62F639-10DE-490E-822F-DC52BDDF78DA}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Fire_Weapon" ID="{7982C17E-7EBF-4DB1-9CFB-B221A1526EFE}">
+					<ChildrenList>
+						<Action Name="Play" ID="{291CBF4E-1F8C-4437-91D9-DD0B97130C1F}" ShortID="58085251" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{76C72A76-FE28-41EB-A3F0-60AC7EA8F20C}" Global="false">
+									<ObjectRef Name="Shotgun_Fire_01" ID="{9E1669EE-BA18-4D2C-B867-EBE56662DBF7}" WorkUnitID="{F888E2F3-991A-4E18-9309-E98F4ED53FE1}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

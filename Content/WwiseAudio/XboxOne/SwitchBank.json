@@ -1,0 +1,31 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "XboxOne",
+  "BasePlatform": "XboxOne",
+  "SchemaVersion": "11",
+  "SoundbankVersion": "118",
+  "RootPaths": {
+   "ProjectRoot": "C:\\Users\\Marty\\Downloads\\UE4.13_Integration_Wwise_v2016.1.3_5878\\WwiseDemoGame\\UnrealWwiseDemo\\",
+   "SourceFilesRoot": "C:\\Users\\Marty\\Downloads\\UE4.13_Integration_Wwise_v2016.1.3_5878\\WwiseDemoGame\\UnrealWwiseDemo\\.cache\\XboxOne\\",
+   "SoundBanksRoot": "C:\\Users\\Marty\\Downloads\\UE4.13_Integration_Wwise_v2016.1.3_5878\\WwiseDemoGame\\Content\\WwiseAudio\\XboxOne\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "C:\\Users\\Marty\\Downloads\\UE4.13_Integration_Wwise_v2016.1.3_5878\\WwiseDemoGame\\UnrealWwiseDemo\\GeneratedSoundBanks\\XboxOne"
+  },
+  "SoundBanks": [
+   {
+    "Id": "3002061887",
+    "Language": "SFX",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\SwitchBank",
+    "ShortName": "SwitchBank",
+    "Path": "SwitchBank.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "2869718074",
+      "Name": "Play_Tone",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Tone"
+     }
+    ]
+   }
+  ]
+ }
+}

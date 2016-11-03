@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{ED0B21DF-CC39-4C53-B597-440B9D08CA45}" SchemaVersion="72">
+	<Switches>
+		<WorkUnit Name="Default Work Unit" ID="{ED0B21DF-CC39-4C53-B597-440B9D08CA45}" PersistMode="Standalone">
+			<ChildrenList>
+				<SwitchGroup Name="Frequency" ID="{EEBAA75B-9E94-4EAF-A9DD-4F38ED4D5C8D}">
+					<ChildrenList>
+						<Switch Name="Low" ID="{7690228D-2131-4E18-BF05-6B16F5105B92}"/>
+						<Switch Name="High" ID="{8804A8FD-746F-4F88-A8B8-C1E2E9F3AB8F}"/>
+					</ChildrenList>
+				</SwitchGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</Switches>
+</WwiseDocument>

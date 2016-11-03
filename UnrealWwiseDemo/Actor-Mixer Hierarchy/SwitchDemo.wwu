@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{8A62F639-10DE-490E-822F-DC52BDDF78DA}" SchemaVersion="72">
+	<AudioObjects>
+		<WorkUnit Name="SwitchDemo" ID="{8A62F639-10DE-490E-822F-DC52BDDF78DA}" PersistMode="Standalone">
+			<ChildrenList>
+				<SwitchContainer Name="Tones" ID="{882E579A-BBF6-4A33-865B-7591F095FB06}" ShortID="1044650770">
+					<PropertyList>
+						<Property Name="HdrEnvelopeSensitivity" Type="Real64" Value="20"/>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5F6E5531-2B92-41CC-924F-077AFCFD1453}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{68F9BA48-B3E0-474F-8C7B-FE41FFC0978B}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Sound Name="Low_frequency" ID="{7FD276FC-B206-43DA-BFF9-3434A439CD28}" ShortID="249619008" Type="SoundFX">
+							<PropertyList>
+								<Property Name="HdrEnvelopeSensitivity" Type="Real64" Value="20"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5F6E5531-2B92-41CC-924F-077AFCFD1453}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{68F9BA48-B3E0-474F-8C7B-FE41FFC0978B}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<SourcePlugin Name="Wwise Tone Generator" ID="{4DC81D6E-E156-4C1B-965C-F9268FCF5AB9}" ShortID="584534406" PluginName="Wwise Tone Generator" CompanyID="0" PluginID="102">
+									<PropertyList>
+										<Property Name="StartFreq" Type="Real32" Value="440"/>
+									</PropertyList>
+									<Language>SFX</Language>
+								</SourcePlugin>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Wwise Tone Generator" ID="{4DC81D6E-E156-4C1B-965C-F9268FCF5AB9}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="High_frequency" ID="{12DD4729-8336-467C-985A-24A907E64E0C}" ShortID="288656746" Type="SoundFX">
+							<PropertyList>
+								<Property Name="HdrEnvelopeSensitivity" Type="Real64" Value="20"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5F6E5531-2B92-41CC-924F-077AFCFD1453}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{68F9BA48-B3E0-474F-8C7B-FE41FFC0978B}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<SourcePlugin Name="Wwise Tone Generator" ID="{C76C9322-A754-44F7-B9F4-1498319223AB}" ShortID="268090051" PluginName="Wwise Tone Generator" CompanyID="0" PluginID="102">
+									<PropertyList>
+										<Property Name="StartFreq" Type="Real32" Value="880"/>
+									</PropertyList>
+									<Language>SFX</Language>
+								</SourcePlugin>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Wwise Tone Generator" ID="{C76C9322-A754-44F7-B9F4-1498319223AB}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+					<GroupingInfo>
+						<GroupRef Name="Frequency" ID="{EEBAA75B-9E94-4EAF-A9DD-4F38ED4D5C8D}"/>
+						<DefaultSwitchRef Name="Low" ID="{7690228D-2131-4E18-BF05-6B16F5105B92}"/>
+						<GroupingBehaviorList>
+							<GroupingBehavior>
+								<ItemRef Name="High_frequency" ID="{12DD4729-8336-467C-985A-24A907E64E0C}"/>
+							</GroupingBehavior>
+							<GroupingBehavior>
+								<ItemRef Name="Low_frequency" ID="{7FD276FC-B206-43DA-BFF9-3434A439CD28}"/>
+							</GroupingBehavior>
+						</GroupingBehaviorList>
+						<GroupingList>
+							<Grouping>
+								<SwitchRef Name="Low" ID="{7690228D-2131-4E18-BF05-6B16F5105B92}"/>
+								<ItemList>
+									<ItemRef Name="Low_frequency" ID="{7FD276FC-B206-43DA-BFF9-3434A439CD28}"/>
+								</ItemList>
+							</Grouping>
+							<Grouping>
+								<SwitchRef Name="High" ID="{8804A8FD-746F-4F88-A8B8-C1E2E9F3AB8F}"/>
+								<ItemList>
+									<ItemRef Name="High_frequency" ID="{12DD4729-8336-467C-985A-24A907E64E0C}"/>
+								</ItemList>
+							</Grouping>
+						</GroupingList>
+					</GroupingInfo>
+				</SwitchContainer>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

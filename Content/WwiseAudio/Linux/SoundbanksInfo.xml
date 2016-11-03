@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Linux" BasePlatform="Linux" SchemaVersion="11" SoundbankVersion="118">
+	<RootPaths>
+		<ProjectRoot>C:\Users\Marty\Downloads\UE4.13_Integration_Wwise_v2016.1.3_5878\WwiseDemoGame\UnrealWwiseDemo\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\Marty\Downloads\UE4.13_Integration_Wwise_v2016.1.3_5878\WwiseDemoGame\UnrealWwiseDemo\.cache\Linux\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\Marty\Downloads\UE4.13_Integration_Wwise_v2016.1.3_5878\WwiseDemoGame\Content\WwiseAudio\Linux\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\Marty\Downloads\UE4.13_Integration_Wwise_v2016.1.3_5878\WwiseDemoGame\UnrealWwiseDemo\GeneratedSoundBanks\Linux</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1081277057" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\AmbientBank</ObjectPath>
+			<ShortName>AmbientBank</ShortName>
+			<Path>AmbientBank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3879965597" Name="AmbientNoise_NotSpatialized" ObjectPath="\Events\Default Work Unit\AmbientNoise_NotSpatialized" MaxAttenuation="400.000000"/>
+				<Event Id="2598391116" Name="AmbientNoise_Spatialized" ObjectPath="\Events\Default Work Unit\AmbientNoise_Spatialized" MaxAttenuation="1500.000000"/>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="1410510952" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\MatineeBank</ObjectPath>
+			<ShortName>MatineeBank</ShortName>
+			<Path>MatineeBank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="995648151" Name="Closed_Hi_Hat" ObjectPath="\Events\Default Work Unit\Closed_Hi_Hat" MaxAttenuation="1500.000000"/>
+				<Event Id="2181839183" Name="Kick" ObjectPath="\Events\Default Work Unit\Kick" MaxAttenuation="1500.000000"/>
+				<Event Id="3607016552" Name="Snare" ObjectPath="\Events\Default Work Unit\Snare" MaxAttenuation="1500.000000"/>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="2001541346" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\VelocityBank</ObjectPath>
+			<ShortName>VelocityBank</ShortName>
+			<Path>VelocityBank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3368745218" Name="VelocityLoop" ObjectPath="\Events\Default Work Unit\VelocityLoop"/>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="3002061887" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\SwitchBank</ObjectPath>
+			<ShortName>SwitchBank</ShortName>
+			<Path>SwitchBank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2869718074" Name="Play_Tone" ObjectPath="\Events\Default Work Unit\Play_Tone"/>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="4208475951" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\ReverbBank</ObjectPath>
+			<ShortName>ReverbBank</ShortName>
+			<Path>ReverbBank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1730369216" Name="Fire_Weapon" ObjectPath="\Events\Default Work Unit\Fire_Weapon"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="903830747" Language="SFX">
+					<ShortName>Shotgun_Fire_01.wav</ShortName>
+					<Path>SFX\Shotgun_Fire_01_9E69E797.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PluginInfo Project="UnrealDemo" Platform="Linux" BasePlatform="Linux">
+	<Plugins>
+		<Plugin Name="Wwise Tone Generator" ID="6684674" DLL="ToneGen"/>
+		<Plugin Name="Wwise RoomVerb" ID="7733251" DLL="AkRoomVerb"/>
+		<Plugin Name="Wwise Tremolo" ID="8585219" DLL="AkTremolo"/>
+	</Plugins>
+</PluginInfo>

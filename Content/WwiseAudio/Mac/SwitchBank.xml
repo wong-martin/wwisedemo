@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="11" SoundbankVersion="118">
+	<RootPaths>
+		<ProjectRoot>C:\Users\Marty\Downloads\UE4.13_Integration_Wwise_v2016.1.3_5878\WwiseDemoGame\UnrealWwiseDemo\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\Marty\Downloads\UE4.13_Integration_Wwise_v2016.1.3_5878\WwiseDemoGame\UnrealWwiseDemo\.cache\Mac\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\Marty\Downloads\UE4.13_Integration_Wwise_v2016.1.3_5878\WwiseDemoGame\Content\WwiseAudio\Mac\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\Marty\Downloads\UE4.13_Integration_Wwise_v2016.1.3_5878\WwiseDemoGame\UnrealWwiseDemo\GeneratedSoundBanks\Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="3002061887" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\SwitchBank</ObjectPath>
+			<ShortName>SwitchBank</ShortName>
+			<Path>SwitchBank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2869718074" Name="Play_Tone" ObjectPath="\Events\Default Work Unit\Play_Tone"/>
+			</IncludedEvents>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

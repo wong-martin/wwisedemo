@@ -1,0 +1,31 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "iOS",
+  "BasePlatform": "iOS",
+  "SchemaVersion": "11",
+  "SoundbankVersion": "118",
+  "RootPaths": {
+   "ProjectRoot": "C:\\Users\\Marty\\Downloads\\UE4.13_Integration_Wwise_v2016.1.3_5878\\WwiseDemoGame\\UnrealWwiseDemo\\",
+   "SourceFilesRoot": "C:\\Users\\Marty\\Downloads\\UE4.13_Integration_Wwise_v2016.1.3_5878\\WwiseDemoGame\\UnrealWwiseDemo\\.cache\\iOS\\",
+   "SoundBanksRoot": "C:\\Users\\Marty\\Downloads\\UE4.13_Integration_Wwise_v2016.1.3_5878\\WwiseDemoGame\\Content\\WwiseAudio\\IOS\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "C:\\Users\\Marty\\Downloads\\UE4.13_Integration_Wwise_v2016.1.3_5878\\WwiseDemoGame\\UnrealWwiseDemo\\GeneratedSoundBanks\\iOS"
+  },
+  "SoundBanks": [
+   {
+    "Id": "2001541346",
+    "Language": "SFX",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\VelocityBank",
+    "ShortName": "VelocityBank",
+    "Path": "VelocityBank.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "3368745218",
+      "Name": "VelocityLoop",
+      "ObjectPath": "\\Events\\Default Work Unit\\VelocityLoop"
+     }
+    ]
+   }
+  ]
+ }
+}
