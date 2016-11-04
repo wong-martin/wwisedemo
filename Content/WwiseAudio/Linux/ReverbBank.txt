@@ -1,6 +1,0 @@
-Event	ID	Name			Wwise Object Path	Notes
-	1730369216	Fire_Weapon			\Default Work Unit\Fire_Weapon	
-
-In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	903830747	Shotgun_Fire_01	C:\Users\Marty\Downloads\UE4.13_Integration_Wwise_v2016.1.3_5878\WwiseDemoGame\UnrealWwiseDemo\.cache\Linux\SFX\Shotgun_Fire_01_9E69E797.wem		\Actor-Mixer Hierarchy\Weapon\Shotgun_Fire_01		257120
-

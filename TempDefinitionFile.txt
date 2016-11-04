@@ -1,8 +1,0 @@
-AmbientBank	"AmbientNoise_Spatialized"
-AmbientBank	"AmbientNoise_NotSpatialized"
-VelocityBank	"VelocityLoop"
-SwitchBank	"Play_Tone"
-ReverbBank	"Fire_Weapon"
-MatineeBank	"Closed_Hi_Hat"
-MatineeBank	"Kick"
-MatineeBank	"Snare"

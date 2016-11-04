@@ -1,9 +1,0 @@
-Event	ID	Name			Wwise Object Path	Notes
-	3368745218	VelocityLoop			\Default Work Unit\VelocityLoop	
-
-Game Parameter	ID	Name			Wwise Object Path	Notes
-	3519441192	Velocity			\Default Work Unit\Velocity	
-
-Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
-	778067245	Wwise Tone Generator	Wwise Tone Generator		\Actor-Mixer Hierarchy\RTPCDemo\VelocityLoop\Wwise Tone Generator	
-
